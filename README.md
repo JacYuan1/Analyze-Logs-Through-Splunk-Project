@@ -37,6 +37,7 @@ The tools used here are the following:
 2. Learned how to create simple web application using HyperText Markup Language (HTML).
 3. Learned how to log applications using Flask.
 4. Learned how to configure, format and test a Flask logger.
+5. Learned how to search Splunk using source, host and sourcetype.
 
 ## References
 
