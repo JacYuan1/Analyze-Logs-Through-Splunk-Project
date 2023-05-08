@@ -26,4 +26,14 @@ The tools used here are the following:
 
 <h2 id="#Approach-to-Problem">Approach to Problem</h2>
 
-1.
+1. Created a web application that will accept user input and store it in the backend DB.
+2. Recorded HTTP server and DB logs the application creates by using Flask.
+3. Forwarded it to Splunk by using the Splunk Universal Forwarder.
+4. Ran a search in Splunk to show the application (web and DB) data forwarded from host pc.
+
+<h2 id="#Learning-Outcomes">Learning Outcomes</h2>
+
+1. Learned how to connect Flask to a database with Flask-SQLAlchemy.
+2. Learned how to create simple web application using HyperText Markup Language (HTML).
+3. Learned how to log applications using Flask.
+4. Learned how to configure, format and test a Flask logger.
