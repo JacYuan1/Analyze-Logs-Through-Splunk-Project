@@ -10,7 +10,7 @@
 
 <h2 id="#Introduction">Introduction</h2>
 
-The premise of this project is to create logs through a custom database in which the logs will then be forwarded to Splunk for further analysis. The final report will be linked in the [References Section](#References).
+The premise of this project is to create logs through a custom database in which the logs will then be forwarded to Splunk for further analysis. The final report will be linked in the [References section](#References).
 
 <h2 id="#Tools-Used">Tools Used</h2>
 
